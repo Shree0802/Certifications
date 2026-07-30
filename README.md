@@ -134,7 +134,7 @@ Certifications/
 ## 🔵 IBM
 
 ### IBM Granite Models for Software Development
-[![IBM Granite Models for Software Development](IBM/thumbnails/IBM_Granite_Models_Software_Development.png)](IBM/IBM_Granite_Models_Software_Development.pdf)
+[![IBM Granite Models for Software Development]
 
 - **Certificate Name**: IBM Granite Models for Software Development
 - **Issuing Organization**: IBM SkillsBuild
