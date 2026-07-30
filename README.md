@@ -133,67 +133,14 @@ Certifications/
 
 ## 🔵 IBM
 
-### IBM Granite Models for Software Development
-[![IBM Granite Models for Software Development]
+### AI Strategy & Business Intelligence Internship
 
-- **Certificate Name**: IBM Granite Models for Software Development
-- **Issuing Organization**: IBM SkillsBuild
-- **Year**: 2026
-- **Skills Gained**: Leveraged IBM Granite open LLMs for code generation, refactoring, and AI pair programming.
+[![IBM AI Strategy & Business Intelligence Internship](IBM/thumbnails/IBM_AI_Strategy_Business_Intelligence_Internship.png)](IBM/IBM_AI_Strategy_Business_Intelligence_Internship.pdf)
 
----
-
-### Generative AI: From Prompt to Production
-[![Generative AI: From Prompt to Production](IBM/thumbnails/IBM_Generative_AI_Prompt_to_Production.png)](IBM/IBM_Generative_AI_Prompt_to_Production.pdf)
-
-- **Certificate Name**: Generative AI: From Prompt to Production
-- **Issuing Organization**: IBM SkillsBuild
-- **Year**: 2026
-- **Skills Gained**: Mastered prompt engineering, GenAI architectures, and deploying LLMs to production pipelines.
-
----
-
-### Introduction to Large Language Models (LLMs)
-[![Introduction to Large Language Models](IBM/thumbnails/IBM_Introduction_to_Large_Language_Models.png)](IBM/IBM_Introduction_to_Large_Language_Models.pdf)
-
-- **Certificate Name**: Introduction to Large Language Models (LLMs)
-- **Issuing Organization**: IBM SkillsBuild
-- **Year**: 2026
-- **Skills Gained**: Understood transformer neural networks, pre-training, fine-tuning, and LLM capabilities.
-
----
-
-### Intelligent by Design: Build an AI Agent
-[![Intelligent by Design: Build an AI Agent](IBM/thumbnails/IBM_Build_an_AI_Agent.png)](IBM/IBM_Build_an_AI_Agent.pdf)
-
-- **Certificate Name**: Intelligent by Design: Build an AI Agent
-- **Issuing Organization**: IBM SkillsBuild
-- **Year**: 2026
-- **Skills Gained**: Designed autonomous AI agents capable of multi-step reasoning and dynamic tool execution.
-
----
-
-### Use Generative AI for Software Development
-[![Use Generative AI for Software Development](IBM/thumbnails/IBM_Generative_AI_for_Software_Development.png)](IBM/IBM_Generative_AI_for_Software_Development.pdf)
-
-- **Certificate Name**: Use Generative AI for Software Development
-- **Issuing Organization**: IBM SkillsBuild
-- **Year**: 2026
-- **Skills Gained**: Applied generative AI tools to accelerate software engineering and automated debugging.
-
----
-
-## 🟡 Google for Developers
-
-### Google Analytics Certification
-[![Google Analytics Certification](Google/thumbnails/Google_Analytics_Certification.png)](Google/Google_Analytics_Certification.pdf)
-
-- **Certificate Name**: Google Analytics Certification
-- **Issuing Organization**: Google
-- **Year**: 2026
-- **Skills Gained**: Demonstrated proficiency in Google Analytics 4 (GA4), web tracking, conversion metrics, and audience reporting.
-
----
+- **Certificate Name:** AI Strategy & Business Intelligence Internship
+- **Issuing Organization:** IBM SkillsBuild & CSRBOX (in collaboration with AICTE)
+- **Year:** 2026
+- **Skills Gained:** Artificial Intelligence, Business Intelligence, Data Analytics, AI Strategy, Problem Solving
 
 ## 🟢 Deloitte
 
@@ -221,16 +168,6 @@ Certifications/
 
 ## 🏆 Other Certifications
 
-### BCG GenAI Job Simulation
-[![BCG GenAI Job Simulation](Other/thumbnails/BCG_GenAI_Job_Simulation.png)](Other/BCG_GenAI_Job_Simulation.pdf)
-
-- **Certificate Name**: GenAI Job Simulation
-- **Issuing Organization**: Boston Consulting Group (BCG) (via Forage)
-- **Year**: 2026
-- **Skills Gained**: Extracted financial data and developed an AI-powered financial chatbot.
-
----
-
 ### Tata GenAI Powered Data Analytics Simulation
 [![Tata GenAI Powered Data Analytics Simulation](Other/thumbnails/Tata_GenAI_Data_Analytics_Simulation.png)](Other/Tata_GenAI_Data_Analytics_Simulation.pdf)
 
@@ -249,17 +186,7 @@ Certifications/
 - **Year**: 2025
 - **Skills Gained**: Framed business scenarios and designed executive data visualizations and insights.
 
----
 
-### GCE Karad TechSprint Hackathon Certificate
-[![GCE Karad TechSprint Hackathon Certificate](Other/thumbnails/GCE_Karad_Hackathon_Participation.png)](Other/GCE_Karad_Hackathon_Participation.jpeg)
-
-- **Certificate Name**: GCE Karad TechSprint Hackathon Certificate
-- **Issuing Organization**: Government College of Engineering (GCE Karad)
-- **Year**: 2026
-- **Skills Gained**: Participated in national-level engineering hackathon building AI & web applications.
-
----
 
 ## 👤 Author
 
