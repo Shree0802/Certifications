@@ -89,9 +89,6 @@ Certifications/
 
 ## 🔷 Microsoft
 
-### Microsoft Azure AI Essentials Professional Certificate
-[![Microsoft Azure AI Essentials](Microsoft/thumbnails/Microsoft_Azure_AI_Essentials.png)](Microsoft/Microsoft_Azure_AI_Essentials.pdf)
-
 - **Certificate Name**: Microsoft Azure AI Essentials Professional Certificate
 - **Issuing Organization**: Microsoft & LinkedIn
 - **Year**: 2026
@@ -100,7 +97,6 @@ Certifications/
 ---
 
 ### Introduction to Career Skills in Data Analytics
-[![Introduction to Career Skills in Data Analytics](Microsoft/thumbnails/Microsoft_Introduction_to_Data_Analytics.png)](Microsoft/Microsoft_Introduction_to_Data_Analytics.pdf)
 
 - **Certificate Name**: Introduction to Career Skills in Data Analytics
 - **Issuing Organization**: Microsoft & LinkedIn
@@ -111,9 +107,6 @@ Certifications/
 
 ## 🟢 NVIDIA
 
-### Applications of AI for Anomaly Detection
-[![Applications of AI for Anomaly Detection](NVIDIA/thumbnails/NVIDIA_Applications_of_AI_for_Anomaly_Detection.png)](NVIDIA/NVIDIA_Applications_of_AI_for_Anomaly_Detection.pdf)
-
 - **Certificate Name**: Applications of AI for Anomaly Detection
 - **Issuing Organization**: NVIDIA Deep Learning Institute (DLI)
 - **Year**: 2026
@@ -122,7 +115,6 @@ Certifications/
 ---
 
 ### Fundamentals of Deep Learning
-[![Fundamentals of Deep Learning](NVIDIA/thumbnails/NVIDIA_Fundamentals_of_Deep_Learning.png)](NVIDIA/NVIDIA_Fundamentals_of_Deep_Learning.pdf)
 
 - **Certificate Name**: Fundamentals of Deep Learning
 - **Issuing Organization**: NVIDIA Deep Learning Institute (DLI)
@@ -135,8 +127,6 @@ Certifications/
 
 ### AI Strategy & Business Intelligence Internship
 
-[![IBM AI Strategy & Business Intelligence Internship](IBM/thumbnails/IBM_AI_Strategy_Business_Intelligence_Internship.png)](IBM/IBM_AI_Strategy_Business_Intelligence_Internship.pdf)
-
 - **Certificate Name:** AI Strategy & Business Intelligence Internship
 - **Issuing Organization:** IBM SkillsBuild & CSRBOX (in collaboration with AICTE)
 - **Year:** 2026
@@ -145,7 +135,6 @@ Certifications/
 ## 🟢 Deloitte
 
 ### Data Analytics Job Simulation
-[![Deloitte Data Analytics Job Simulation](Deloitte/thumbnails/Deloitte_Data_Analytics_Job_Simulation.png)](Deloitte/Deloitte_Data_Analytics_Job_Simulation.pdf)
 
 - **Certificate Name**: Data Analytics Job Simulation
 - **Issuing Organization**: Deloitte (via Forage)
@@ -157,7 +146,6 @@ Certifications/
 ## 🎓 AICTE & EduSkills
 
 ### AICTE-EduSkills Virtual Internship Certification
-[![AICTE-EduSkills Virtual Internship Certification](AICTE-EduSkills/thumbnails/AICTE_EduSkills_Virtual_Internship.png)](AICTE-EduSkills/AICTE_EduSkills_Virtual_Internship.pdf)
 
 - **Certificate Name**: AICTE-EduSkills Virtual Internship Certification
 - **Issuing Organization**: AICTE & EduSkills Foundation
@@ -169,7 +157,6 @@ Certifications/
 ## 🏆 Other Certifications
 
 ### Tata GenAI Powered Data Analytics Simulation
-[![Tata GenAI Powered Data Analytics Simulation](Other/thumbnails/Tata_GenAI_Data_Analytics_Simulation.png)](Other/Tata_GenAI_Data_Analytics_Simulation.pdf)
 
 - **Certificate Name**: GenAI Powered Data Analytics Job Simulation
 - **Issuing Organization**: Tata Group (via Forage)
@@ -179,7 +166,6 @@ Certifications/
 ---
 
 ### Tata Data Visualisation Job Simulation
-[![Tata Data Visualisation Job Simulation](Other/thumbnails/Tata_Data_Visualisation_Simulation.png)](Other/Tata_Data_Visualisation_Simulation.pdf)
 
 - **Certificate Name**: Data Visualisation: Empowering Business with Effective Insights
 - **Issuing Organization**: Tata Group (via Forage)
